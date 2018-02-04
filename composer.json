@@ -3,7 +3,7 @@
     "description": "A service provider for respect relational",
 	"type": "library",
     "keywords": ["providers", "silex", "service providers", "respect", "relational", "database"],
-    "license": "BSD Style",
+    "license": "MIT",
     "authors": [
         {
             "name": "Ricardo Fontanelli",
